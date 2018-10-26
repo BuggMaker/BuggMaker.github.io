@@ -1,2 +1,2 @@
 # Ranger的小屋
-[Ranger的个人文档](./build/index.html)
+[Ranger的个人文档](https://buggmaker.github.io/build/index.html)
