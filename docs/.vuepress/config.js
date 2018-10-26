@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/',
+    base: '/build/',
     title: "Ranger的小屋",
     description: "得一林,护一生!",
     head: [],
