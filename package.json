@@ -1,0 +1,27 @@
+{
+  "name": "buggmaker.github.io",
+  "version": "1.0.0",
+  "description": "个人博客",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.4"},
+  "scripts": {
+    "docs:dev":"vuepress dev docs",
+    "docs:build":"vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuggMaker/BuggMaker.github.io.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "BuggMaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuggMaker/BuggMaker.github.io/issues"
+  },
+  "homepage": "https://github.com/BuggMaker/BuggMaker.github.io#readme"
+}
